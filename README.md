@@ -1,5 +1,7 @@
 # Honeynet in Azure
 
+https://imgur.com/r0FakBf.gif
+
 
 | Metric                   | Before | After
 | ------------------------ | -----  | -----
