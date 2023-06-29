@@ -1,6 +1,6 @@
 # Honeynet in Azure
 
-![]https://imgur.com/r0FakBf.gif ![]https://imgur.com/48HmREZ
+![](https://imgur.com/r0FakBf.gif) ![](https://imgur.com/48HmREZ)
 
 
 | Metric                   | Before | After
