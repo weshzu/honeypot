@@ -1,9 +1,14 @@
 # Honeynet in Azure
 
-## Introduction 
+![](https://imgur.com/18TSMJA.gif)
+
+## Abstract
+
+Through the creation of this lab on Microsoft Azure, we could reflect and prepare us for the type of controls needed in a real world capacity.  From setting the correct network security group, changing the inbound rules and lastly using KQL to help pull the metrics needed to demonstrate this activity.  When the resources we are protecting would cause a burden to countries or company financially of any type of  downtime to our day-to-day operations.   The lack of development in security is our biggest insecurity as we review examples of ongoing fight with encryption and cryptography on a multitude of levels. 
+
 Below is the legend with all thing involved in creating this HoneyNet on Microsoft Azure and an animation explaining the process in delegating logs into Microsoft Sentinel
 
-[Missing Legend.jpg]
+![Legend](https://i.imgur.com/a/FoBOsn5.png)
 
 ![](https://github.com/weshzu/honeypot/blob/main/uvAbdzZ.gif?raw=true)
 
